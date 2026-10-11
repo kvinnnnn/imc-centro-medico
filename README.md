@@ -1,5 +1,7 @@
 # Calculadora de IMC - Centro Médico
 
+**Integrantes:** Kevin Rodriguez y Camilo Vargas
+
 Software web para un centro médico que calcula el Índice de Masa Corporal (IMC) de los pacientes y recomienda una rutina de ejercicios y una alimentación balanceada según cada caso.
 
 ## Funcionalidades
